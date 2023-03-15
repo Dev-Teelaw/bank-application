@@ -1,0 +1,23 @@
+{
+  "name": "bank-application",
+  "version": "1.0.0",
+  "description": "\"# bank-application\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Teelaw/bank-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-Teelaw/bank-application/issues"
+  },
+  "homepage": "https://github.com/Dev-Teelaw/bank-application#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "linting": "^1.0.0"
+  }
+}
