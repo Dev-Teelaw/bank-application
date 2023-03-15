@@ -3,7 +3,7 @@ const app =express();
 
 
 app.get("/",(req,res) =>{ 
-    const result ="ok:true"
+    const result ={"ok":"true"}
     res.send(result)
 })
 
